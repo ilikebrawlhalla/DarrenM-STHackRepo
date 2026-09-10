@@ -1,1 +1,1 @@
-print("goodbye world")
+print("SHUT UP RAZ")
