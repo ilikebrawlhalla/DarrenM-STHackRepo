@@ -21,4 +21,5 @@ local function pascal(numRows)
     end
 end
 
+-- edit the number here dum dum
 pascal(7)
