@@ -22,4 +22,7 @@ local function pascal(numRows)
 end
 
 -- edit the number here dum dum
+-- btw to run lua code you probably need to run "apt install lua" in linux terminal 
+-- or "scoop install lua" in windows powershell 
+-- or some equivalent command
 pascal(7)
